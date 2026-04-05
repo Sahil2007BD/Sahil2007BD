@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there! 👋
+Hey there! 👋<br/>
 
-I'm Sahil, a fresher CSE student from Bangladesh (Joined in 2006).
+I'm Sahil, a fresher CSE student from Bangladesh (Joined in 2006).<br/>
 
-I’m starting my BSc in Computer Science and Engineering and exploring the world of technology and programming.
+I’m starting my BSc in Computer Science and Engineering and exploring the world of technology and programming.<br/>
 
-Currently interested in software development, AI, and cybersecurity. My goal is to learn, build projects, and create something meaningful with technology.
+Currently interested in software development, AI, and cybersecurity. My goal is to learn, build projects, and create something meaningful with technology.<br/>
 
-### Fun Facts
+### Fun Facts<br/>
 
-• Curious about how technology works
-• Always learning new things in tech
-• Future developer in progress 🚀
+• Curious about how technology works<br/>
+• Always learning new things in tech<br/>
+• Future developer in progress 🚀<br/>
