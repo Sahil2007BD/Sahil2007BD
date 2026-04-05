@@ -13,10 +13,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝Repo
-![](https://github-readme-stats.vercel.app/api?username=Sahil2007BD&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Sahil2007BD&theme=merko&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil2007BD&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
