@@ -1,6 +1,8 @@
 # 💫 About Me:
 <br>Hey there! 👋<br><br>I'm Sahil, a fresher CSE student from Bangladesh (Joined in 2006).<br><br>I’m starting my BSc in Computer Science and Engineering and exploring the world of technology and programming.<br><br>Currently interested in software development, AI, and cybersecurity. My goal is to learn, build projects, and create something meaningful with technology.<br><br>### Fun Facts<br><br>• Curious about how technology works<br>• Always learning new things in tech<br>• Future developer in progress 🚀.<br>
 
+Portfolio : https://sahil2007bd.github.io/sahildev/
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qTwrBUKfqP) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SahilBD2007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil.zze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilbd2007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahiledu2007@gmail.com) 
